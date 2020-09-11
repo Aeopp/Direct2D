@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+C:\Users\irmxj\Desktop\FrameWork3\Client\stdafx.h(25,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
